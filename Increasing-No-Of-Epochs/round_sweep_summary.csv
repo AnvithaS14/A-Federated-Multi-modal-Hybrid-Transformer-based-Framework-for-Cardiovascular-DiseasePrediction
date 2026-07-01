@@ -1,0 +1,2 @@
+algorithm,local_optimizer,num_clients,local_epochs,learning_rate,seed,best_iteration,best_accuracy,best_accuracy_percent,loss_at_best_iteration
+FedAdam,rmsprop,2,5,0.0005,42,5,0.8709677419354839,87.09677419354838,6.350650310516357
